@@ -1,7 +1,6 @@
 # Gülizar — Niş Parfüm Evi
 
-**Canlı site: https://emre-coding.github.io/G-lizarParfume/**
-
+**Canlı site: https://emre-coding.github.io/GulizarParfume/
 Her kokudan yalnızca 200 şişe üreten hayali bir niş parfüm markası için tek sayfalık, animasyonlu web sitesi.
 *Gülizar*, Farsçada "gül yanaklı" demek. Sitedeki şişelerin hiçbiri fotoğraf değil — hepsi kodla çiziliyor.
 
