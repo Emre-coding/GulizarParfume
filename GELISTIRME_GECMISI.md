@@ -187,7 +187,7 @@ GitHub girişi başlatıldı; yetkilendirme isteği GitHub tarafında reddedildi
 
 > github dan nasıl bir site isteyebilirm siteyi görüntülemek için?
 
-GitHub Pages ile yayınlama adımları anlatıldı: dosyaları **Add file → Upload files** ile yüklemek, **Settings → Pages → Deploy from a branch → main / (root)** seçmek. Site adresi: **https://emre-coding.github.io/G-lizarParfume/**
+GitHub Pages ile yayınlama adımları anlatıldı: dosyaları **Add file → Upload files** ile yüklemek, **Settings → Pages → Deploy from a branch → main / (root)** seçmek. Site adresi: **https://emre-coding.github.io/GulizarParfume/**
 
 ## 20. Bu geçmiş dosyası
 
